@@ -1,0 +1,14 @@
+.Buttons_4_25 {
+  z-index: 1;
+  width: min(360px, 100%);
+  min-height: 50px;
+  background-color: rgba(255, 255, 255, 1);
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 20px;
+}

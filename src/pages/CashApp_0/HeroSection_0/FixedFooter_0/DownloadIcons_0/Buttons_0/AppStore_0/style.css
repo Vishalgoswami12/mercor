@@ -1,0 +1,31 @@
+.AppStore_4_28 {
+  z-index: 1;
+  width: min(170px, 100%);
+  min-height: 50px;
+  background-color: rgba(0, 0, 0, 1);
+  box-sizing: border-box;
+  border: 1px solid rgba(255, 255, 255, 1);
+  border-radius: 7px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.TEXT_4_29 {
+  z-index: 2;
+  color: rgba(255, 255, 255, 1);
+  font-family: Agrandir;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 12px;
+  text-align: center;
+  vertical-align: middle;
+  letter-spacing: 0.5px;
+  line-height: 18px;
+}

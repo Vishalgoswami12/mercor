@@ -1,0 +1,19 @@
+.Eyebutton_4_73 {
+  transform: translate(1239.5035400390625px, 50.852638244628906px) rotate(0deg)
+    scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: min(63.99678421020508px, 100%);
+  min-height: 36px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 20px;
+}
